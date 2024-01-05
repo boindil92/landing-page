@@ -10,3 +10,15 @@ body {
     align-items: center;
     
 }
+
+.top {
+    display: flex;
+    flex-direction: row;
+
+ }
+
+button {
+    color: black;
+    background-color: aqua;
+
+}
